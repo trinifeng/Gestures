@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gestures</string>
+    <string name="instructions">Single tap adds\nLong press subtracts\nFling resets to 0</string>
+</resources>
